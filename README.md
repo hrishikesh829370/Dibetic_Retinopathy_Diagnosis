@@ -32,3 +32,11 @@ shf
 KNH OIH          ihoih
           hiouho          
                     hoapf
+                    afsmr
+
+|{}≠≠¿¡“¶¢[][]|{{}≠≠¿'±‘‘|…–∞«∑€®†Ω¨¨⁄øø•å‚∂ƒ
+~µµ∫√çç≈¥å‚∂ƒ
+\\
+this time \\
+this sysmpbol at the end\\
+\\here at the beginnign
