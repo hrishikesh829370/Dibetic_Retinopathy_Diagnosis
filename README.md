@@ -12,31 +12,6 @@ The project has the following structure:
 
 codes/: codes with modules and functions implementing preprocessing, datasets, model and utilities. It also covers different project stages: data preparation, modeling and ensembling.
 
-
-Training/: model weights saved during training.
-kn
-
-
-          fkmfk  fmw
-sfjaifH kKN                              KNKN                  
-          VE
-
-FSFS
-SFSF
-FA OF         
-HI          Now i used a  tab
-now i used a enter
-this time nowthing
-shf 
-
-KNH OIH          ihoih
-          hiouho          
-                    hoapf
-                    afsmr
-
-|{}≠≠¿¡“¶¢[][]|{{}≠≠¿'±‘‘|…–∞«∑€®†Ω¨¨⁄øø•å‚∂ƒ
-~µµ∫√çç≈¥å‚∂ƒ
-\\
-this time \\
-this sysmpbol at the end\\
-\\here at the beginnign
+this is something new|
+i used markdown a tteh end|
+nothing new
