@@ -12,6 +12,6 @@ The project has the following structure:
 
 codes/: codes with modules and functions implementing preprocessing, datasets, model and utilities. It also covers different project stages: data preparation, modeling and ensembling.
 
-this is something new|
-i used markdown a tteh end|
+this is something new|<br>
+i used markdown a tteh end|<br>
 nothing new
