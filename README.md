@@ -7,7 +7,8 @@ Diabetic retinopathy (DR) is one of the leading causes of vision loss. The World
 Early detection and treatment are crucial steps towards preventing DR. The screening procedure requires a trained clinical expert to examine the fundus photographs of the patient's retina. This creates delays in diagnosis and treatment. This is especially relevant for developing countries, which often lack qualified medical staff to perform the diagnosis. Automated detection of DR can speed up the efficiency and coverage of the screening programs.
 ![Bildschirmfoto 2023-11-04 um 02 11 56](https://github.com/hrishikesh829370/Dibetic_Retinopathy_Diagnosis/assets/131910887/885e756e-e150-4b6e-a599-94ea7fc766d2)
 
-##Datset
+## Datset
+
 The data includes 3,662 labeled retina images of clinical patients and a test set with 1,928 images with unknown labels. The images are labeled by a clinical expert. The integer labels indicate the severity of DR on a scale from 0 to 4, where 0 indicates no disease and 5 is the proliferative stage of DR.
 
 ![Bildschirmfoto 2023-11-04 um 02 13 00](https://github.com/hrishikesh829370/Dibetic_Retinopathy_Diagnosis/assets/131910887/de22e7da-a1fd-4a42-8b4d-b1051ff2dfc9)
